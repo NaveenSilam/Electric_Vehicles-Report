@@ -8,3 +8,15 @@ The goal of this project is to identify market trends, top-performing vehicle ca
 - Daily and monthly sales patterns
 - Distribution of personal vs shared EV usage
 - Sales contribution by vehicle type and region
+
+## 📜 Dataset Source
+The dataset used in this project was taken from Kaggle: 
+- <a href="https://github.com/NaveenSilam/Electric_Vehicles-Report/blob/main/Electric%20Vehicle%20Sales%20by%20State%20in%20India.csv">Dataset</a>
+
+## 🧰 Tools & Technologies
+- **Microsoft Excel** – Data cleaning and preprocessing  
+- **Power BI** – Data visualization and dashboard creation
+- **DAX**  
+- **Kaggle Dataset** – Source of raw Olympic data
+
+- Dashboard Interaction <a href="https://github.com/NaveenSilam/Electric_Vehicles-Report/blob/main/Electric%20Vehicle%20Dashboard.png">View Dashboard</a>
