@@ -1,4 +1,4 @@
-# Electric-Vehicles-Report
+# 🚗🔋 Electric-Vehicles-Report
 
 ## 📊 Project Overview
 The goal of this project is to identify market trends, top-performing vehicle categories, high-growth states, seasonal patterns, and overall adoption of EVs in India. The dashboard features visual insights such as yearly growth trends, state-wise performance, category-wise distribution, top vehicle types, and monthly/day-wise sales behavior.
@@ -37,3 +37,16 @@ The dataset used in this project was taken from Kaggle:
 ## 📊 Published Dashboard
 Dashboard Interaction <a href="https://app.powerbi.com/groups/me/reports/8987e6b6-4623-4c0c-b672-6731ff9a60c3/59c8a99896080e521513?experience=power-bi">View the Dashboard Online</a>
 
+## 📈 Key Insights
+- **Strong overall growth**: India recorded 3.59 million EV sales, showing a consistent rise over the decade with a major peak around 2023.
+- **2-Wheelers dominate the market**: With 50.31% of total sales, 2-Wheelers are the most preferred EV category, followed closely by 3-Wheelers at 45.09%—indicating strong adoption in both personal and commercial transport.
+- **Top performing states**: Uttar Pradesh leads with 732K EV sales, while Maharashtra, Karnataka, and Rajasthan follow, showing strong regional adoption.
+- **High activity on specific days**: Wednesday recorded the highest daily sales at 641K, showing mid-week sales strength.
+- **Monthly seasonality**: November is the best-performing month with 382K sales, likely boosted by festive-season demand.
+- **Vehicle type distribution**: The “Others” category records the highest count (54,423 entries), while strong traction is also seen in 2W Personal, 3W Personal, 4W Shared, Buses, and Goods vehicles, highlighting diverse EV usage.
+- **Peak growth period**: The largest annual sales jump occurred between 2021 and 2023, showing wider acceptance driven by incentives, better charging infrastructure, and affordable EV models.
+- **Wide coverage**: The dataset spans 34 Indian states, 12 vehicle types, and reflects a broad and diverse EV market landscape.
+- **Steady rise until 2023, slight dip after**: Year-wise data shows consistent growth until 2023, with a drop in early 2024—possibly due to market correction or reduced   incentives.
+
+## 🏁 Final Conclusion
+Electric vehicle adoption in India has grown strongly over the decade, driven mainly by 2-Wheelers and 3-Wheelers and led by high-performing states like Uttar Pradesh and Maharashtra. Sales peaked in 2023, showing rising interest supported by incentives and better infrastructure. Despite a small dip in 2024, the overall trend remains positive, indicating steady and expanding EV adoption across the country.
