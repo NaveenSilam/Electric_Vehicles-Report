@@ -20,3 +20,20 @@ The dataset used in this project was taken from Kaggle:
 - **Kaggle Dataset** – Source of raw Olympic data
 
 - Dashboard Interaction <a href="https://github.com/NaveenSilam/Electric_Vehicles-Report/blob/main/Electric%20Vehicle%20Dashboard.png">View Dashboard</a>
+
+## ⚙️ Data Preparation
+- Downloaded the raw EV sales dataset from Kaggle and imported it into Power BI Power Query.
+- Checked for missing values and cleaned or removed incomplete records.
+- Standardized state names, vehicle categories, and date formats to ensure consistency.
+- Converted the date column into proper Power BI date format and created additional fields like Year, Month, and Day.
+- Removed duplicate entries to maintain clean and accurate data.
+- Categorized vehicles into groups such as 2-Wheelers, 3-Wheelers, 4-Wheelers, Bus, and Others.
+- Loaded the cleaned dataset into Power BI for modelling and dashboard development
+- Created new calculated columns and DAX measures for total sales, monthly trends, category distribution, and growth metrics (MoM, YoY).
+
+## Dashboard 
+<img width="604" height="340" alt="Electric Vehicle Dashboard" src="https://github.com/user-attachments/assets/39ce5c2d-10d7-4041-b15c-2023af1befc6" />
+
+## 📊 Published Dashboard
+Dashboard Interaction <a href="https://app.powerbi.com/groups/me/reports/8987e6b6-4623-4c0c-b672-6731ff9a60c3/59c8a99896080e521513?experience=power-bi">View the Dashboard Online</a>
+
